@@ -1,0 +1,12 @@
+src-git packages https://github.com/coolsnowwolf/packages
+src-git luci https://github.com/coolsnowwolf/luci
+src-git routing https://git.openwrt.org/feed/routing.git
+src-git telephony https://git.openwrt.org/feed/telephony.git
+src-git lienol https://github.com/Lienol/openwrt-package.git
+src-git hyy2001x https://github.com/Hyy2001X/AutoBuild-Packages.git
+src-git canary https://github.com/Canary233/luci-app-completion.git
+src-git PassWall https://github.com/xiaorouji/openwrt-passwall
+src-git helloword https://github.com/fw876/helloworld
+src-git Openclash https://github.com/vernesong/OpenClash
+src-git smartdns https://github.com/pymumu/smartdns
+src-git small8 https://github.com/kenzok8/small-package
